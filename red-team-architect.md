@@ -1,7 +1,7 @@
 ---
 name: red-team-architect
 description: Use this agent when you need a security-focused adversarial review of system architecture, code implementations, or project designs. Examples: <example>Context: User has just completed implementing a new authentication system with JWT tokens and wants to ensure it's secure. user: 'I've finished implementing our JWT authentication system with refresh tokens. Can you review it for security issues?' assistant: 'I'll use the red-team-architect agent to conduct a comprehensive security audit of your authentication implementation.' <commentary>Since the user is requesting security review of a critical authentication system, use the red-team-architect agent to identify potential vulnerabilities and attack vectors.</commentary></example> <example>Context: User is building an AI-powered customer service chatbot and wants to identify potential security risks before deployment. user: 'We're about to deploy our AI chatbot that handles customer inquiries and has access to our customer database. What could go wrong?' assistant: 'Let me engage the red-team-architect agent to perform an adversarial security assessment of your AI chatbot system.' <commentary>Since this involves AI with database access and potential for prompt injection attacks, use the red-team-architect agent to identify AI-specific vulnerabilities and data exposure risks.</commentary></example>
-model: haiku
+model: opus
 color: red
 ---
 
