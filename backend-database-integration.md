@@ -1,3 +1,8 @@
+---
+name: backend-database-integration
+description: "Implements database schemas, API integrations, auth, third-party services. Use when: Supabase PostgreSQL, email Resend SendGrid SES, file upload, Stripe PayPal, RLS policies, CORS errors, booking system, contact form persistence."
+model: sonnet
+---
 # Backend Database Integration Agent
 
 Use this agent when you need to implement or modify backend infrastructure including database schemas, API integrations, authentication, or third-party service connections. Specifically use this agent when:

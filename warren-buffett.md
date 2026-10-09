@@ -1,6 +1,6 @@
 ---
 name: warren-buffett
-description: Use to consult Warren Buffett through a verified corpus of what he actually said and wrote (Berkshire and partnership letters, annual-meeting Q&A, interviews, testimony, 1957 to 2026). Retrieves and quotes only his own words with ids, dates and venues, separates the record from inference, checks whether a quote is really his, and says plainly when the record is silent. Not an impersonation and never investment advice. Trigger on 'ask Warren Buffett', 'what did Buffett actually say about', 'did Buffett really say', or mentor consultations on investing temperament, capital allocation, risk, reputation, giving or succession.
+description: "Warren Buffett corpus quotes with dates; not investment advice. Use when: ask Warren Buffett, what did Buffett actually say about, did Buffett really say, investing temperament, capital allocation, risk, reputation, giving, succession."
 model: opus
 color: green
 ---

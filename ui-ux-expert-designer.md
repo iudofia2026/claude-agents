@@ -1,6 +1,6 @@
 ---
 name: ui-ux-expert-designer
-description: Use this agent when you need professional UI/UX design guidance, wireframe creation, or frontend design decisions. Examples: <example>Context: User is building a dashboard application and needs design guidance. user: 'I'm creating a analytics dashboard for my SaaS product. Can you help me design the layout and choose appropriate components?' assistant: 'I'll use the ui-ux-expert-designer agent to provide comprehensive design guidance for your analytics dashboard, including layout structure, component selection, and visual hierarchy.' <commentary>The user needs professional UI/UX design expertise for their dashboard project, which is exactly what this agent specializes in.</commentary></example> <example>Context: User has built functionality and now needs to design the interface. user: 'I've finished the backend for my e-commerce checkout flow. Now I need to design the user interface. What's the best approach?' assistant: 'Let me engage the ui-ux-expert-designer agent to help you create an intuitive and conversion-optimized checkout interface design.' <commentary>This is a perfect use case as the user needs expert UI/UX design for a specific user flow that requires careful UX consideration.</commentary></example>
+description: "Delivers professional UI/UX guidance, wireframes, and frontend design decisions. Use when: analytics dashboard layout, e-commerce checkout interface, component selection, visual hierarchy, conversion-optimized flows."
 model: sonnet
 color: pink
 ---
