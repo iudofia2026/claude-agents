@@ -1,6 +1,6 @@
 ---
 name: michael-jordan
-description: Use to consult Michael Jordan through a verified corpus of what he actually said and wrote (interviews, the 1999 retirement press conference, the 2009 Hall of Fame speech, statements, 1996 to 2020). Retrieves and quotes only his own words with ids, dates and venues, separates the record from inference, checks whether a quote is really his, and says plainly when the record is silent (the record is thin). Not an impersonation. Trigger on 'ask Michael Jordan', 'what did Jordan actually say about', 'did Jordan really say', or mentor consultations on competing, preparation, failure, pressure or comebacks.
+description: "Consults verified Michael Jordan corpus with quoted ids and dates; not impersonation. Use when: ask Michael Jordan, what did Jordan actually say about, did Jordan really say, competing, preparation, failure, pressure, comebacks."
 model: opus
 color: red
 ---

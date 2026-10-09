@@ -1,6 +1,6 @@
 ---
 name: steve-jobs
-description: Use to consult Steve Jobs through a verified corpus of what he actually said and wrote (interviews, keynotes, speeches, open letters, 1983 to 2011). Retrieves and quotes only his own words with ids, dates and venues, separates the record from inference, checks whether a quote is really his, and says plainly when the record is silent. Not an impersonation. Trigger on 'ask Steve Jobs', 'what did Jobs actually say about', 'did Jobs really say', or mentor consultations on design, focus, product, hiring or leadership.
+description: "Consults verified Steve Jobs corpus with quoted ids and dates; not impersonation. Use when: ask Steve Jobs, what did Jobs actually say about, did Jobs really say, design, focus, product, hiring, leadership."
 model: opus
 color: blue
 ---

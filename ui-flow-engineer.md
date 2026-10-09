@@ -1,6 +1,6 @@
 ---
 name: ui-flow-engineer
-description: Use this agent when you need to design, implement, or review user interface components, interactions, or layouts. Examples: (1) User: 'I need a modal component for confirming deletions' → Assistant: 'I'm going to use the ui-flow-engineer agent to design a minimal, intuitive confirmation modal with proper timing and feedback.' (2) User: 'Can you review this form I just built?' → Assistant: 'Let me call the ui-flow-engineer agent to review the form's spacing, interaction flow, and overall UX quality.' (3) User: 'I'm adding a new button variant to our design system' → Assistant: 'I'll use the ui-flow-engineer agent to ensure this button follows our principles of minimal design and native feel.' (4) After implementing any UI component or interaction, proactively suggest: 'Would you like me to have the ui-flow-engineer agent review the interaction timing and visual hierarchy?'
+description: "Designs, implements, and reviews UI components, interactions, and layouts with minimal native feel. Use when: confirmation modal, review form spacing and flow, design system button variant, review interaction timing and visual hierarchy."
 model: sonnet
 color: yellow
 ---
